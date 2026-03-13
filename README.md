@@ -23,6 +23,7 @@
 
 ## Bonus Question
 **A list** is ordered collection of items (it can be of any data type) while **a dictionary** is a collection of key-value pairs.
+
 *Can you say a list is just dictionaries? for example a shopping list. soap, maize flour, wheat flour (that's a list) they are also dictionaries if I create a set of key values for example maize flour - soko - 2, jogoo -3 : wheat flour - pembe - 3 ajab -2*
 
 

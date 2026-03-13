@@ -21,4 +21,7 @@
 | Karuga      | 40  |
 
 
+## Bonus Question
+A list is ordered collection of items (it can be of any data type) while a dictionary is a collection of key-value pairs.
+
 

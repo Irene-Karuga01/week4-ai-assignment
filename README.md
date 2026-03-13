@@ -8,7 +8,7 @@
 
 ## Question 2
 
-**Structured data** is a type data that has a fixed schema (the data is organized into predefined format like rows and columns), *for examples* numbers, alphabets, and aphanumeric while **unstructured data** is the type of data that has no fixed schema (does not follow predefined structure or format) hence making it hard to organize and analyze with convectional tools, for example images, videos, and audio.
+**Structured data** is a type data that has a fixed schema (the data is organized into predefined format like rows and columns), *for example* numbers, alphabets, and aphanumeric while **unstructured data** is the type of data that has no fixed schema (does not follow predefined structure or format) hence making it hard to organize and analyze with convectional tools, for example images, videos, and audio.
 
 ## Question 3
 
@@ -18,5 +18,7 @@
 |-------------|-----|
 | Irene       | 16  |
 | Mbithe      | 5   |
-|
+| Karuga      | 40  |
+
+
 
